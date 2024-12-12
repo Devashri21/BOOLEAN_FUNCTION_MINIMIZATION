@@ -1,4 +1,9 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+**NAME: DEVASHRI.S**
+
+**REF NO: 24001806**
+
+# EXPIREMENT NO: 2
+# BOOLEAN FUNCTION MINIMIZATION
 
 **AIM:**
 
@@ -8,17 +13,13 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-**Equipment Required:**
+**EQUPMENTS REQUIRED:**
 
 Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
-
-**Logic Diagram**
-
-**Procedure**
+**PROCEDURE:**
 
 1.	Type the program in Quartus software.
 
@@ -31,22 +32,29 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+**PROGRAM:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
+![exp2_program](https://github.com/user-attachments/assets/1c0c9379-5609-45b2-8c0a-9f9240160333)
 
 
-**RTL realization**
+**RTL REALIZATION:**
 
-**Output:**
+![exp2_lg](https://github.com/user-attachments/assets/7b349ea5-3631-441f-9692-cb291dd29311)
 
-**RTL**
 
-**Timing Diagram**
+**OUTPUT:**
 
-**Result:**
+![exp2_tt1](https://github.com/user-attachments/assets/24a83d46-35ec-470d-8902-b31f0a3ef1ae)
+![exp2_tt2](https://github.com/user-attachments/assets/0022ae12-dadb-485d-b886-434dad1d0522)
+
+
+
+**RTL TIMING DIAGRAM:**
+
+![exp2_rtl](https://github.com/user-attachments/assets/a870f516-61a6-462a-9294-7a42cf7e14e6)
+
+
+**RESULT:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
