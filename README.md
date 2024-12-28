@@ -51,7 +51,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **RTL TIMING DIAGRAM:**
 
-![exp2_rtl](https://github.com/user-attachments/assets/a870f516-61a6-462a-9294-7a42cf7e14e6)
+![WhatsApp Image 2024-12-28 at 14 33 41_21a95954](https://github.com/user-attachments/assets/819d9380-a0d8-4e8a-b1a1-f1b641b3033a)
 
 
 **RESULT:**
