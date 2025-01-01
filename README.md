@@ -11,7 +11,6 @@ To implement the given logic function verify its operation in Quartus using Veri
 
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D 
 
-F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 **EQUPMENTS REQUIRED:**
 
